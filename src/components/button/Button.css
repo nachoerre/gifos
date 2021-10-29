@@ -1,0 +1,49 @@
+.btn {
+  border-radius: 10px;
+  border-style: none;
+  background-color: white;
+  cursor: pointer;
+}
+
+.dark .btn {
+  background-color: #373737;
+  border-color: white;
+  color: white;
+}
+
+#btn.btn:disabled {
+  background-color: gray;
+}
+
+.header button {
+  border-radius: 61px;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 16px;
+  text-align: center;
+  width: 148px;
+  height: 43px;
+  color: #6809E1;
+  border: 1px solid #6809E1;
+}
+
+.header button:hover {
+  background-color: rgb(80, 227, 194);
+}
+
+.search .btn-search {
+  border-radius: 0 61px 61px 0;
+  border-color:transparent;
+  width: 86px;
+  height: 52px;
+  background-color: #572EE5;
+}
+
+.btn-autocomplete {
+  border-radius: 0;
+}
+
+.dark .btn-autocomplete {
+  background-color: white;
+  color: black;
+}

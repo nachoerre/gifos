@@ -1,0 +1,1 @@
+export const request = (resource='/trending', query, limit=15) => fetch(`https://api.giphy.com/v1/gifs${resource}?api_key=9Hsckhr7phcawHHQqWlIstSlmTHVFoLI&q=${query}&limit=${limit}&offset=0&rating=g&lang=en`);

@@ -1,0 +1,13 @@
+.gif-img {
+  width: 250px;
+  height: 250px;
+  margin: 25px;
+}
+
+.gif-img:hover {
+  transform: scale(1.1);
+  -webkit-box-shadow: 0px 0px 25px 0px rgb(80, 227, 194, 1);
+  -moz-box-shadow: 0px 0px 25px 0px rgba(80, 227, 194, 1);
+  box-shadow: 0px 0px 25px 0px rgba(80, 227, 194, 1);
+  
+}
