@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/gifos/static/css/main.f45ece67.chunk.css",
+    "main.js": "/gifos/static/js/main.adc77dec.chunk.js",
+    "main.js.map": "/gifos/static/js/main.adc77dec.chunk.js.map",
+    "runtime-main.js": "/gifos/static/js/runtime-main.5ec7a155.js",
+    "runtime-main.js.map": "/gifos/static/js/runtime-main.5ec7a155.js.map",
+    "static/js/2.ee38a1e8.chunk.js": "/gifos/static/js/2.ee38a1e8.chunk.js",
+    "static/js/2.ee38a1e8.chunk.js.map": "/gifos/static/js/2.ee38a1e8.chunk.js.map",
+    "index.html": "/gifos/index.html",
+    "static/css/main.f45ece67.chunk.css.map": "/gifos/static/css/main.f45ece67.chunk.css.map",
+    "static/js/2.ee38a1e8.chunk.js.LICENSE.txt": "/gifos/static/js/2.ee38a1e8.chunk.js.LICENSE.txt",
+    "static/media/icon-search-mod-noc.ecc2b197.svg": "/gifos/static/media/icon-search-mod-noc.ecc2b197.svg",
+    "static/media/icon-search.657bf939.svg": "/gifos/static/media/icon-search.657bf939.svg",
+    "static/media/ilustra_header.9d4669b1.svg": "/gifos/static/media/ilustra_header.9d4669b1.svg",
+    "static/media/logo-desktop.2f122678.svg": "/gifos/static/media/logo-desktop.2f122678.svg",
+    "static/media/logo-mobile-modo-noct.47e214b1.svg": "/gifos/static/media/logo-mobile-modo-noct.47e214b1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ec7a155.js",
+    "static/js/2.ee38a1e8.chunk.js",
+    "static/css/main.f45ece67.chunk.css",
+    "static/js/main.adc77dec.chunk.js"
+  ]
+}
